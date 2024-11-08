@@ -51,7 +51,7 @@ def home_page():
         st.markdown("[watch a demo](https://www.youtube.com/watch?v=wOBBkIQTh1E)")
 
         # add an image
-        st.image(r"C:\Users\CCIK14598\Downloads\Image.png")
+        st.image(r"https://unsplash.com/photos/I2UR7wEftf4")
 
         st.divider()
         st.write("====" * 10)
