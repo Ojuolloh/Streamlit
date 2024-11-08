@@ -45,7 +45,7 @@ def home_page():
                 """)
         
         # adding the embeded link
-        st.video("https://www.youtube.com/watch?v=wOBBkIQTh1E",autoplay=True)
+        #st.video("https://www.youtube.com/watch?v=wOBBkIQTh1E",autoplay=True)
 
         # adding the clickable link
         st.markdown("[watch a demo](https://www.youtube.com/watch?v=wOBBkIQTh1E)")
