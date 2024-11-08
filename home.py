@@ -48,7 +48,7 @@ def home_page():
         #st.video("https://www.youtube.com/watch?v=wOBBkIQTh1E",autoplay=True)
 
         # adding the clickable link
-        st.markdown("[watch a demo](https://www.youtube.com/watch?v=wOBBkIQTh1E)")
+        #st.markdown("[watch a demo](https://www.youtube.com/watch?v=wOBBkIQTh1E)")
 
         # add an image
         st.image(r"https://unsplash.com/photos/I2UR7wEftf4")
